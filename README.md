@@ -1,9 +1,12 @@
  Hy there! My Name is Bhavana Jaiswal
 
 About Me
+
 💡 I'm Bhavana Jaiswal, a recent economics graduate from the University of Allahabad. I'm passionate about the field of data engineering and have recently completed the Odin School Bootcamp to upskill myself in this area. During the bootcamp, I gained experience in statistics, Python, SQL, and various tools and technologies, including Microsoft Azure Data Factory, Microsoft Azure SQL Data Warehouse, Apache Cassandra, and Kafka.
+
+
 🌱 I'm excited about the possibilities of using data to gain insights and make informed decisions. I'm always eager to learn new tools and technologies and stay up-to-date with the latest developments in the field.
-✉️ You can email me at bhavanajaisw.88@email.com.
+ 
 
 Latest Work
 Developing data pipelines using Microsoft Azure Data Factory to extract data from multiple sources and load it into Microsoft Azure SQL Data Warehouse for analysis. Also, created data models in Apache Cassandra and implemented real-time data streaming using Kafka.
