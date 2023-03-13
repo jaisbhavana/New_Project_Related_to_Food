@@ -1,7 +1,4 @@
-# New_Project_Related_to_Food
-Exploring Food and Beverages data
-
-Hy there! My Name is Bhavana Jaiswal
+ Hy there! My Name is Bhavana Jaiswal
 
 About Me
 💡 I'm Bhavana Jaiswal, a recent economics graduate from the University of Allahabad. I'm passionate about the field of data engineering and have recently completed the Odin School Bootcamp to upskill myself in this area. During the bootcamp, I gained experience in statistics, Python, SQL, and various tools and technologies, including Microsoft Azure Data Factory, Microsoft Azure SQL Data Warehouse, Apache Cassandra, and Kafka.
